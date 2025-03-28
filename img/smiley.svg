@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="smiley.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="10.623572"
+     inkscape:cx="23.956161"
+     inkscape:cy="24.003226"
+     inkscape:window-width="1150"
+     inkscape:window-height="1000"
+     inkscape:window-x="764"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 2.7265638,24.072918 q 0,-8.85938 6.234378,-15.0937575 6.2343782,-6.2708363 15.0208402,-6.2708363 8.859379,0 15.093757,6.2708363 6.19792,6.2343775 6.19792,15.0937575 0,8.786462 -6.19792,15.02084 -6.234378,6.19792 -15.093757,6.19792 -8.786462,0 -15.0208402,-6.19792 -6.234378,-6.234378 -6.234378,-15.02084 z m 4.3020854,0 q 0,6.963545 4.9947938,11.958339 4.958336,5.031252 11.958339,5.031252 7.036462,0 12.031256,-5.031252 4.994794,-4.994794 4.994794,-11.958339 0,-7.109379 -4.994794,-12.067714 -4.994794,-4.9583361 -12.031256,-4.9583361 -7.000003,0 -11.958339,4.9583361 -4.9947938,4.958335 -4.9947938,12.067714 z m 16.9531328,7.218753 q 6.052086,0.328125 8.276046,-7.109378 h 1.968751 q -0.546875,9.916671 -10.354172,10.427088 -9.442713,-0.692709 -9.989588,-10.39063 h 1.859376 q 2.953126,7.364587 8.239587,7.07292 z m 6.890629,-10.463547 q -3.135419,-0.145833 -3.244794,-3.354168 0.145834,-3.31771 3.463544,-3.500001 3.026043,0.255208 3.171876,3.390626 -0.145833,3.31771 -3.390626,3.463543 z m -13.744799,0 q -3.098959,-0.145833 -3.244793,-3.354168 0.182292,-3.31771 3.500002,-3.500001 2.989585,0.255208 3.171876,3.390626 -0.182291,3.31771 -3.427085,3.463543 z"
+       id="text1"
+       style="font-size:74.6667px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#f9acb1"
+       aria-label="☺" />
+  </g>
+</svg>
