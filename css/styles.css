@@ -83,6 +83,29 @@ header {
     font-size: large;
 }
 
+.enter-stage-right {
+    animation: 1s slide-in-right;
+}
+@keyframes slide-in-right {
+    from {
+        translate: 150vw 0; 
+        scale: 200% 1;
+        color: var(--background);
+    }
+}
+
+.enter-stage-left {
+    animation: 1s slide-in-left;
+}
+@keyframes slide-in-left {
+    from {
+        translate: -150vw 0;
+        scale: 200% 1;
+        color: var(--background);
+    }
+
+}
+
 .top-nav {
     /* Layout */
     display: flex;
