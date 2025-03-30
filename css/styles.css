@@ -103,25 +103,28 @@ header {
 .top-nav > a {
     /* Layout */
     padding: 0.25rem;
+    
 
     /* Typography */
     font-size: x-large;
     min-height: 40px;
     text-decoration: none;
     color: var(--foreground);
+
+    /* Appearance */
+    border-radius: 2rem;
+    transition: all 0.25s ease-in-out;
 }
 
 /* Hover rules for top-nav links */
 .top-nav a:hover {
-    color: var(--brightWhite);
-    transition-duration: 0.2s;
-    text-shadow: 0 0 1em 1em;
+    color: var(--brightYellow);
+    text-shadow: 0 0 0.5em var(--brightRed);
 }
 @media (hover:hover) {
     .top-nav a:hover {
-        color: var(--brightWhite);
-        transition-duration: 0.2s;
-        text-shadow: 0 0 1em;
+        color: var(--brightYellow);
+        text-shadow:  0 0 0.5em var(--brightRed);
     }
 }
 
