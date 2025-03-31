@@ -6,8 +6,8 @@
     */
 
     font-family: 'Codee Sans Mono';
-    src: url('../fonts/CodeeSansMono-Regular.woff2') format('woff2'),
-    url('../fonts/CodeeSansMono-Regular.woff') format('woff');
+    src: url(asset_url: '/assets/fonts/CodeeSansMono-Regular.woff2') format('woff2'),
+    url(asset_url: '/assets/fonts/CodeeSansMono-Regular.woff') format('woff');
 }
 
 /* Set color variables */

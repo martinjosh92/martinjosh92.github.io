@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="robots" content="index, follow">
+    <link href="{{ '/assets/img/favicon.svg' | asset_url }}" rel="icon">
+    <link href= "{{ '/assets/css/style.css' | asset_url }}" rel="stylesheet">    
+    <title>{{ page.title }}</title>
+
+</head>
+
+<body>
+    <!-- Header section -->
+    {% include header.html %}
+
+    <!-- Main content area -->
+    <main id="main-content">
+        {{ content }}
+    </main>
+
+    </div>
+
+    <!-- Footer section -->
+    {% include footer.html %}
+</body>
+
+</html>
