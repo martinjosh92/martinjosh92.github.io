@@ -60,14 +60,6 @@ a {
     color: var(--brightYellow);
 }
 
-dt {
-    color: var(--brightMagenta);
-    font-size: large;
-}
-
-dd {
-    color: var(--brightBlue);
-}
 
 .header-content {
     /* Layout */
@@ -161,11 +153,7 @@ dd {
 /* Main Content Area */
 main {
     /* Layout */
-    display: flex;
-    flex-flow: row wrap;
-    max-width: 60rem;
-    margin-left: auto;
-    margin-right: auto;
+
 
     /* Appearance */
     border-radius: 0.5rem;
@@ -174,27 +162,6 @@ main {
     background-color: var(--black);
 }
 
-section {
-    margin: 0.5rem;
-    padding: 1rem;
-}
-
-/* media-box  */
-.media-box {
-    display: flex;
-    flex-flow: row wrap;
-    align-items:flex-start;
-    justify-items: center;
-    gap: 1em;
-}
-.media-box > * {
-    flex: 1;
-    min-width: 15rem;
-}
-.media-box > img {
-    max-width: 15rem;
-    margin:auto;
-}
 
 /* Footer and bottom nav section */
 footer {
