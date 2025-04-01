@@ -1,3 +1,4 @@
+
 /* Font-face me! */
 @font-face {
     /* 
@@ -6,8 +7,8 @@
     */
 
     font-family: 'Codee Sans Mono';
-    src: url(asset_url: '/assets/fonts/CodeeSansMono-Regular.woff2') format('woff2'),
-    url(asset_url: '/assets/fonts/CodeeSansMono-Regular.woff') format('woff');
+    src: url('../fonts/CodeeSansMono-Regular.woff2') format('woff2'),
+    url('../fonts/CodeeSansMono-Regular.woff') format('woff');
 }
 
 /* Set color variables */
@@ -41,6 +42,8 @@
 }
 
 body {
+    /* Layout */
+    padding: 1rem;
     /* Typography */
     font-family:'Codee Sans Mono', 'Segoe UI', Verdana, sans-serif;
     background-color: var(--background);
@@ -66,7 +69,7 @@ dd {
     color: var(--brightBlue);
 }
 
-header {
+.header-content {
     /* Layout */
     max-width: 70rem;
     margin-left: auto;

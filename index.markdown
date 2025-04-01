@@ -11,7 +11,7 @@ layout: default
 
 ![a smiley face](assets/img/smiley.svg)
 
-# Featured content
+## Featured content
 
 I might use this section to highlight something I'm doing or working on, with a link to more details.
 
@@ -28,5 +28,5 @@ quaerat laudantium.
 - two
 - three
 
-# Placeholder section
+## Placeholder section
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto repellendus aspernatur culpa rerum perspiciatis id minima. Id inventore, rem aliquid minus atque culpa nihil accusantium perferendis omnis! Molestiae, soluta quo.
